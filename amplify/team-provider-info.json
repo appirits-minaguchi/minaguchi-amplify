@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-minaguchiamplify-dev-163846-authRole",
+      "UnauthRoleArn": "arn:aws:iam::735440503420:role/amplify-minaguchiamplify-dev-163846-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::735440503420:role/amplify-minaguchiamplify-dev-163846-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-minaguchiamplify-dev-163846-deployment",
+      "UnauthRoleName": "amplify-minaguchiamplify-dev-163846-unauthRole",
+      "StackName": "amplify-minaguchiamplify-dev-163846",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:735440503420:stack/amplify-minaguchiamplify-dev-163846/e9856c40-ca16-11ed-bd32-0a019b323b37",
+      "AmplifyAppId": "d3t0djr4vpnrs7"
+    },
+    "categories": {
+      "api": {
+        "minaguchiamplify": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
